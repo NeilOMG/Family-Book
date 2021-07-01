@@ -1,0 +1,13 @@
+body{
+    text-align:center;
+    background-color:darkseagreen;
+}
+
+#img {
+    width: 500px;
+    border:2px solid #fff;
+}
+
+button{
+    font-size:15px;
+}
